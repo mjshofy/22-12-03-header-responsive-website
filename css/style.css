@@ -1,0 +1,59 @@
+/* google fonts ==========++========== */
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap");
+/* font-family: 'Nanum Myeongjo', serif; */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+/* font-family: 'Poppins', sans-serif; */
+/* ends base style ==========++========== */
+:root {
+  --clr-black: #111111;
+  --clr-white: #fefefe;
+
+  --clr-bg: #ded3ca;
+}
+
+::selection {
+  background-color: var(--clr-black);
+  color: var(--clr-bg);
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.5;
+  overflow-x: hidden;
+
+  color: var(--clr-black);
+}
+
+h1 {
+  font-family: "Nanum Myeongjo", serif;
+  line-height: 1.2;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  color: var(--clr-black);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* repeated code ==========++========== */
+
+/* header style ==========++========== */
+
+/* hamburger menu icon ==========++========== */
+
+/* mobile navigation style ==========++========== */
+
+/* hero section style  */
