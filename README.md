@@ -5,7 +5,7 @@ Responsive eyewear website header design using HTML, CSS, and JavaScript
 
 Learn how to create a responsive website using HTML, CSS, and JavaScript by watching this tutorial video. Don't forget to Subscribe to my YouTube channel for getting more web development tutorial videos.
 
-🎁 Get Design Source Code from [Here 👉](https://www.buymeacoffee.com/the.codermj/e/109235)
+🎁 Get Design Source Code from [Here](https://www.buymeacoffee.com/the.codermj/e/109235)
 
 Thanks,
 [codermj](https://www.youtube.com/@the.codermj/)
